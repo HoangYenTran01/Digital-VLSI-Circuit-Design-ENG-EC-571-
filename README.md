@@ -84,7 +84,7 @@ Key sizing decisions: precharge and sampling PMOS at 90 nm minimum; pull-down an
 │   ├── Lab4/   # 3-input NAND — full design flow including layout 
 │   ├── Lab5/   # NOR gate — 4 CMOS logic families benchmarked comparing statis dynamic power and delay 
 │   └── Lab6/   # 6T vs. 8T SRAM sizing and stability analysis
-└── cmos-sram-memory-cadence.tar.gz # Full Cadence design database
+└── cmos-sram-memory-cadence.tar.gz # Full Cadence zip folder 
 ```
 
 > Extract the tarball and run `virtuoso &` in the project directory to open all schematics and layouts.
