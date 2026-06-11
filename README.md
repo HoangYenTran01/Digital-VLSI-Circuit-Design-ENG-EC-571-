@@ -2,7 +2,7 @@
 
 **Cadence Virtuoso · 28 nm PDK · Boston University EC 571 · Spring 2026**
 
-Replicated and extended a 2016 IEEE JSSC paper in Cadence Virtuoso — designing, simulating, and verifying a 6T SRAM array that reconfigures at runtime as a Binary CAM, Ternary CAM, or SRAM, and can perform bitwise AND / NOR operations directly inside the memory array without moving data to a CPU.
+Replicated and simulating a 2016 IEEE JSSC paper in Cadence Virtuoso —  verifying a 6T SRAM memory structure that reconfigures at runtime as a Binary CAM, Ternary CAM, or SRAM, and can perform bitwise AND / NOR operations directly inside the memory array without moving data.
 
 > **Collaborator:** Yixuan Huang  
 > **Reference:** S. Jeloka et al., "A 28 nm Configurable Memory (TCAM/BCAM/SRAM) Using Push-Rule 6T Bit Cell Enabling Logic-in-Memory," *IEEE J. Solid-State Circuits*, vol. 51, no. 4, 2016.
@@ -15,7 +15,7 @@ Conventional BCAM cells use 10 transistors; TCAM cells use 16. Both are 2–5× 
 
 ---
 
-## What I Built
+## What We Tested
 
 ### 1 · Memory Cell
 
