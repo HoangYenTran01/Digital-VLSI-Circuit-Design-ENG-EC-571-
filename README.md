@@ -80,8 +80,9 @@ Key sizing decisions: precharge and sampling PMOS at 90 nm minimum; pull-down an
 │   ├── EC571_Project_Report.pdf    # Full written report
 │   └── EC571_Project_Slides.pdf   # Presentation slides
 ├── labs/                           # Skill-building exercises (see below)
-│   ├── Lab4/   # 3-input NAND — full design flow
-│   ├── Lab5/   # NOR gate — 4 CMOS logic families benchmarked
+│   ├── Lab2/   #Voltage Transfer Characteristic
+│   ├── Lab4/   # 3-input NAND — full design flow including layout 
+│   ├── Lab5/   # NOR gate — 4 CMOS logic families benchmarked comparing statis dynamic power and delay 
 │   └── Lab6/   # 6T vs. 8T SRAM sizing and stability analysis
 └── cmos-sram-memory-cadence.tar.gz # Full Cadence design database
 ```
